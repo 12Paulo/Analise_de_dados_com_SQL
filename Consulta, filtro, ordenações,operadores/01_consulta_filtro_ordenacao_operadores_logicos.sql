@@ -1,9 +1,4 @@
 
-Usarei SQL para analisar dados de inspeções sanitárias em navios de cruzeiro, são
-dados reais disponíveis publicamente fornecidos pela ANVISA.
-O objetivo deste script é trazer algumas respostas e entender algumas caracteristicas dos dados,
-como os navios com pior classificação de risco, os navios com índices de conformidade mais alto,
-os navios com alta pontuação de risco entre outros detalhes.
 
 link do dataset disponibilizado pela ANVISA:
 dados.gov.br/dataset/dados-abertos-de-inspecao-em-navios-de-cruzeiro

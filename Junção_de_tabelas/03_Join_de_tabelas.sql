@@ -1,6 +1,4 @@
- 
-
-				 
+ 			 
 Primeiro vamos carregar os dados para realizarmos a junção de tabelas.
 
 /* Criando uma base de dados */

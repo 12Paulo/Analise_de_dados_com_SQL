@@ -1,8 +1,6 @@
 Agregando Dados para Análise
 
 
-
-
 como verificar o character set do banco de dados
 
 SELECT @@character_set_database, @@collation_database;

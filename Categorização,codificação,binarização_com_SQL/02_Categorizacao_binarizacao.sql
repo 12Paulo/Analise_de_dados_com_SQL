@@ -76,7 +76,7 @@ SELECT DISTINCT classe FROM cap03.tb_dados;
 /* Utilizando o comando CASE */
 /* Vamos converter utilizando binarização da variável classe */
 /* É uma boa pratica usar 0 para falso e 1 para verdadeiro */
-/* O comando a baixo diz que caso o evento não seja recorrente aplico 0 */
+/* O comando abaixo diz que caso o evento não seja recorrente aplico 0 */
 /* E caso o evento seja recorrente aplico 1 */
 SELECT 
 	CASE

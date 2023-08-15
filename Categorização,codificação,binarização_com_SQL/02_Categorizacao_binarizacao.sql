@@ -1,13 +1,7 @@
 
- 
-
-  O objetivo será aplicar uma série de transformações a variáveis de um conjunto de dados
-  de pacientes que desenvolveram câncer de mama. Estarei limpando e transformando os dados
-  através de categorização, codificação e binarização e então gerar um novo dataset, que
-  poderá ser usado mais a frente por outros profissionais da equipe de Ciência de Dados.
-
-  Usaremos o conjunto de dados diponibilizado pelo UCI que é um repositório de dados usados
+   Usaremos o conjunto de dados diponibilizado pelo UCI que é um repositório de dados usados
   para machine learning que é disponibilizado gratuitamente.
+
 
   link: archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer/
 							                

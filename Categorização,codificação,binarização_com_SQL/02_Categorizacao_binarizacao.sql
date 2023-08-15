@@ -8,15 +8,14 @@
 
 
 
+	                    O que é categorização ?
 
-							                Oque é categorização ?
-
-					Vamos tomar como exemplo a tabela abaixo, a categorização visa
-					converter uma variável para o tipo categórica, vamos usar o exemplo
-					a variável idade do cliente, ao invés de pegarmos exatamente a idade do cliente
-					podemos criar uma variável como faixa etária, e assim atribuir a idade
-					em categoria, dessa forma fica muito mais fácil compreender a faixa
-					etária dos clientes.		                
+	Vamos tomar como exemplo a tabela abaixo, a categorização visa
+	converter uma variável para o tipo categórica, vamos usar o exemplo
+	a variável idade do cliente, ao invés de pegarmos exatamente a idade do cliente
+	podemos criar uma variável como faixa etária, e assim atribuir a idade
+	em categoria, dessa forma fica muito mais fácil compreender a faixa
+	etária dos clientes.		                
 
 
       Estado do Cliente          | Idade do Cliente       | Faixa Etária do Cliente |
